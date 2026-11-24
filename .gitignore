@@ -1,0 +1,5 @@
+build/
+*.bin
+__pycache__/
+.watch_state.json
+.DS_Store
